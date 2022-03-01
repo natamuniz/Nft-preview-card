@@ -1,10 +1,17 @@
 body {
-    margin-left:  480px; 
+    background-color:hsl(217, 54%, 11%); ;
+    font-family:'Outfit', sans-serif; ;
+}
+
+.card {
+    margin-left:  440px; 
     background-color: hsl(217, 54%, 11%);
     display: inline-block;
     box-sizing: border-box;
-    border: 2px solid hsl(215, 51%, 70%)0;
+    border: 3px solid ;
     border-radius: 10px;
+    box-shadow: 10px 10px 10px 10px #000000;
+    
     
    
     
@@ -14,6 +21,10 @@ body {
 
 .logo {
     text-align: center;
+    padding-left: 25%;
+    padding-top: 100px;
+    width: 50%;
+
 }
 
 
@@ -21,24 +32,80 @@ body {
 .name{
     font-family: 'Outfit', sans-serif;
     color: white;
-    font-size: 16px;
+    font-size: 18px;
+    font-weight: 600;
     text-align: left;
+    padding-left: 25%;
 
 }
 
 .description {
     font-family: 'Outfit', sans-serif;
     font-size: 13px;
-    color:hsl(215, 32%, 27%) ; 
+    font-weight: 400;
+    color: hsl(0, 0%, 100%); 
+    text-align: center;
 }
+
+.icon {
+    float: left;
+    padding-left: 25%;
+    
+
+}
+
+
 
 .price {
     font-family: 'Outfit', sans-serif;
-    font-size: 11px;
-    color:hsl(178, 100%, 50%)
+    font-size: 13px;
+    color:hsl(178, 100%, 50%);
+    
 }
 
+
+
+
 .line {
-    color:hsl(215, 32%, 27%) ;
+    color: hsl(0, 0%, 100%);
+    width: 60%;
     
+}
+
+.avata {
+    width: 8%;
+    float: left;
+    padding-left:25% ;
+    
+}
+
+.creation {
+    font-size: 15px;
+    color: aliceblue;
+    text-align: left;
+}
+
+
+
+.time {
+    color: antiquewhite;
+    text-align: left;
+    padding-left: 25%;
+
+}
+
+.clock {
+    float: left;
+    padding-left: 25%;
+}
+
+footer {
+    margin-top: 60px;
+    padding: 40px 0;
+    text-align: center;
+    background-color: #000000;
+    color: aquamarine;
+    
+
+
 }
