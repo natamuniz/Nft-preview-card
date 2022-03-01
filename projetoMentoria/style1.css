@@ -1,0 +1,44 @@
+body {
+    margin-left:  480px; 
+    background-color: hsl(217, 54%, 11%);
+    display: inline-block;
+    box-sizing: border-box;
+    border: 2px solid hsl(215, 51%, 70%)0;
+    border-radius: 10px;
+    
+   
+    
+
+    
+}
+
+.logo {
+    text-align: center;
+}
+
+
+
+.name{
+    font-family: 'Outfit', sans-serif;
+    color: white;
+    font-size: 16px;
+    text-align: left;
+
+}
+
+.description {
+    font-family: 'Outfit', sans-serif;
+    font-size: 13px;
+    color:hsl(215, 32%, 27%) ; 
+}
+
+.price {
+    font-family: 'Outfit', sans-serif;
+    font-size: 11px;
+    color:hsl(178, 100%, 50%)
+}
+
+.line {
+    color:hsl(215, 32%, 27%) ;
+    
+}
