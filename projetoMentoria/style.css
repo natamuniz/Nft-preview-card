@@ -1,0 +1,159 @@
+body {
+    background-color:hsl(217, 54%, 11%); ;
+    font-family:'Outfit', sans-serif; ;
+}
+
+header{
+    height: 40px;
+    padding-top: 20px;
+    background-color: #000000;
+}
+
+a {
+    text-decoration: none;
+    color: aquamarine;
+}
+a:hover{
+    text-decoration: underline;
+    color: aliceblue;
+    text-decoration-color: blueviolet ;
+}
+.referencias{
+    color: aquamarine;
+    text-align: center;
+    margin-top: 10px;
+    
+    
+    
+    
+}
+
+.card {
+    margin: 50px auto 30px;
+    background-color: hsl(217, 54%, 11%);
+    width: 668px;
+    height: 845px;
+    border: 3px solid ;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px 10px #000000;
+
+}
+
+.logo {
+    
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-right: 30px;
+}
+
+.logo:hover{
+    opacity: 0.3;
+}
+
+
+
+
+
+.name{
+    font-family: 'Outfit', sans-serif;
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+    
+    padding-left: 30px;
+    padding-top: 30px;
+    
+
+}
+
+.name:hover{
+    
+    text-decoration: underline;
+}
+
+.description {
+    font-family: 'Outfit', sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    color: hsl(0, 0%, 100%); 
+    
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+.icon {
+   
+    padding-left: 30px;
+    padding-top: 10px;
+    
+
+}
+
+
+
+.price {
+    font-family: 'Outfit', sans-serif;
+    font-size: 15px;
+    color:hsl(178, 100%, 50%);
+    display: inline-block;
+    vertical-align: top;
+    padding-top: 12px;
+    padding-left: 5px;
+    
+}
+
+.clock {
+    padding-left: 30px;
+    padding-top: 5px;
+    
+}
+
+.time {
+    color: antiquewhite;
+    display: inline-block;
+    vertical-align: top;
+    padding-top: 5px;
+    padding-left: 5px;
+    
+
+}
+
+
+
+
+
+.line {
+    color: hsl(0, 0%, 100%);
+    width: 40%;
+    
+
+   
+
+    
+}
+
+.avata {
+    width: 8%;
+    
+    padding-left:30px ;
+    padding-top: 2px;
+    
+}
+
+.creation {
+    font-size: 15px;
+    display: inline-block;
+    vertical-align: top;
+    color: aliceblue;
+    
+    padding-top: 16px;
+}
+
+.creation:hover {
+    text-decoration: underline;
+}
+
+
+
+
+
